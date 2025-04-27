@@ -1,0 +1,182 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "JUCE",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE-Debug-8c5cb14da6601334f57a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "JUCE"
+				},
+				{
+					"build" : "JUCE/modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.modules-Debug-75e12007da05525a4629.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "JUCE/modules"
+				},
+				{
+					"build" : "JUCE/extras/Build",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.extras.Build-Debug-3b65d93d5d984d19e246.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "JUCE/extras/Build"
+				},
+				{
+					"build" : "JUCE/extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.extras.Build.juceaide-Debug-cfc09dcf5bd0e7f51604.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "JUCE/extras/Build/juceaide"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AUDIO_PLUGIN_EXAMPLE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "JUCE",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AudioPluginExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AudioPluginExample-Debug-efea687d9c188e266dfd.json",
+					"name" : "AudioPluginExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AudioPluginExample_All::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AudioPluginExample_All-Debug-eacac688255fee6b6873.json",
+					"name" : "AudioPluginExample_All",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AudioPluginExample_Standalone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AudioPluginExample_Standalone-Debug-17f27c90ac3ae2b00543.json",
+					"name" : "AudioPluginExample_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AudioPluginExample_VST3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AudioPluginExample_VST3-Debug-8e602c7ef1bd9251e38e.json",
+					"name" : "AudioPluginExample_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AudioPluginExample_rc_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AudioPluginExample_rc_lib-Debug-2a2f95a87a24dac4975f.json",
+					"name" : "AudioPluginExample_rc_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_vst3_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_vst3_helper-Debug-13f79179d92d00817deb.json",
+					"name" : "juce_vst3_helper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sykojo/Documents/_projects/NoDeadFishSynths/fishcontroller/cmake-build-debug-visual-studio",
+		"source" : "C:/Users/sykojo/Documents/_projects/NoDeadFishSynths/fishcontroller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

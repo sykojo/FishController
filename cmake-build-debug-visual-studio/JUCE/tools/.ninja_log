@@ -1,0 +1,13 @@
+# ninja log v6
+12	454	7674593726284602	C:/Users/sykojo/Documents/_projects/NoDeadFishSynths/fishcontroller/cmake-build-debug-visual-studio/JUCE/tools/CMakeFiles/cmake.verify_globs	9d1d87d73399a493
+518	706	7674593731347754	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.obj	1d2aebf61a85a1fb
+494	1425	7674593731097696	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.obj	267cc01e7efb0d5d
+525	5818	7674593731417771	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.obj	4271db1bd09099af
+503	7653	7674593731187713	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.obj	ac3d572155629bd9
+457	9515	7674593730737622	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.obj	5c7b058cf727c597
+464	9696	7674593730807660	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.obj	4f368ebf9eaebdbc
+510	17585	7674593731267739	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.obj	1bf9c9f239558889
+478	36276	7674593730947667	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.obj	299343217ace0f
+487	43937	7674593731037688	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.obj	b189968de5c3ffe9
+471	57421	7674593730877652	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.obj	acabd043952c9656
+57423	58494	7674594300394673	extras/Build/juceaide/juceaide_artefacts/Custom/juceaide.exe	f11cc04a9b025d66
